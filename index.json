@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "fastjet",
+  "versions": [
+    {
+      "commit": "46100f9b29031869b034d46ad246ee72d8a979bb",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:39:51.639504+00:00"
+    }
+  ]
+}
